@@ -14,7 +14,7 @@ def generate_wordlist(data, output, min_len, max_len):
     print(f"\nWordlist başarıyla {output} dosyasına kaydedildi!")
 
 def interactive_mode():
-    print("\n--- Etkileşimli Wordlist Oluşturucu ---")
+    print("\n--- basit arayüzlü Wordlist Oluşturucu ---")
     print("Detaylı soruları yanıtlayarak devasa bir wordlist oluşturun.\n")
     
     names = input("İsimler (Boşlukla ayrılmış şekilde yazın, örnek: Ali Ayşe Mehmet): ").split()
