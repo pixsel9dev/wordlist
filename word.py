@@ -33,7 +33,7 @@ def interactive_mode():
 
 def main():
     print("\n--- Wordlist Oluşturucu ---")
-    print("Bu program çok detaylı sorular sorarak devasa bir wordlist oluşturur.")
+    print(" devasa bir wordlist oluştururucusu.")
     
     parser = argparse.ArgumentParser(
         description="Dünyanın en iyi wordlist oluşturma programı. Kullanıcıdan detaylı veriler alarak tek dosyada devasa bir wordlist oluşturur."
