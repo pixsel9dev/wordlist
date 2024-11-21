@@ -1,3 +1,5 @@
 # wordlist
-simple wordlist gen
-the code is open source and you can do whatever you want
+küçük bir wordlist oluşturucusu açık kaynaklı istediğiniz gibi düzenleyebilirsiniz
+parametreler 
+basit arayüzü erişim için python word.py -e
+diğer parametreler
