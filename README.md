@@ -1,0 +1,2 @@
+# wordlist
+simple wordlist gen
