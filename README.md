@@ -18,3 +18,4 @@ mesela
 python word.py -n herhangi bir isim  -sn herhangi bir soyisim  -b herhangi bir doğum tarihi -k anahtar kelimeler-nu sayılar -s semboller -cw ozel kelimeler -min 2 -max 4 -o wordlist.txt
  umarım açıklayıcı olmuştur iyi kullanımlar
  hataları ve bugları lütfen yazın
+ 
